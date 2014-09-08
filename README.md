@@ -1,8 +1,9 @@
+
 #Practical Numerical Methods in Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
 - Lorena A. Barba, George Washington University, USA
-- Ian Hawke, Southampton University, UK
+- Ian Hawke, Southampton University,UK 
 - Carlos Jerez, Pontificia Universidad Catolica de Chile
 
 **Note:** David Ketcheson, from King Abdullah University of Science and Technology (KAUST), Saudi Arabia was going to be our fourth partner, but unfortunately the local course at KAUST got cancelled due to low enrollment.
